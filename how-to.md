@@ -3,5 +3,5 @@ The aim of this document is to provide a guide on 'how to' do things whether it 
 
 ## Angular
 
-* (Create new project)[http://google.com]
-* (Install Bootstrap)[http://google.com]
+* [Create new project](https://github.com/lornasw93/mentoring/blob/main/angular/create-new-project.md)
+* [Install Bootstrap](https://github.com/lornasw93/mentoring/blob/main/angular/install-bootstrap.md)
