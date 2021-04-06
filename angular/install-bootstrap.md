@@ -6,7 +6,7 @@ ng add @ng-bootstrap/ng-bootstrap
 npm i bootstrap
 ```
 
-Add the following line in the `angular.json` file above the default styling file.
+Check you have the following line in the `angular.json` file - if not add.
 ``` 
 "styles": [
     "node_modules/bootstrap/dist/css/bootstrap.min.css", //✨
@@ -14,12 +14,12 @@ Add the following line in the `angular.json` file above the default styling file
 ],
 ```
 
-Install an additional package.
+You might need to add an additional package - you'll know if prompted via your dev tools console window.
 ```
 npm i @angular/localize
 ```
 
-In the `polyfills.ts` add this line at the top.
+If you have installed the above package, also add this line `polyfills.ts` at the top.
 ```
 import '@angular/localize/init';
 ```
