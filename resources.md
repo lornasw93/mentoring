@@ -4,7 +4,7 @@
 
 ## Images
 * [Undraw](https://undraw.co/illustrations)
-* [IRA Design] (https://iradesign.io/gallery/illustrations)
+* [IRA Design](https://iradesign.io/gallery/illustrations)
 
 ### Icons
 * [Dev](https://devicon.dev/)
@@ -19,3 +19,6 @@
 
 ## SEO
 * [Metatags](https://metatags.io/)
+
+## Other
+* [JSON Formatter](https://jsonformatter.org/)
