@@ -1,7 +1,5 @@
 # Resources
-
-* [Roadmap](https://roadmap.sh/)
-
+ 
 ## Images
 * [Undraw](https://undraw.co/illustrations)
 * [IRA Design](https://iradesign.io/gallery/illustrations)
@@ -10,6 +8,7 @@
 * [Dev](https://devicon.dev/)
 * [Illlustrations](https://illlustrations.co/)
 * [Icons8](https://icons8.com/)
+* [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free)
 
 ## Design Blocks
 * [Froala](https://froala.com/design-blocks/)
@@ -23,3 +22,4 @@
 
 ## Other
 * [JSON Formatter](https://jsonformatter.org/)
+* [Roadmap](https://roadmap.sh/)
