@@ -9,6 +9,7 @@
 ### Icons
 * [Dev](https://devicon.dev/)
 * [Illlustrations](https://illlustrations.co/)
+* [Icons8](https://icons8.com/)
 
 ## Design Blocks
 * [Froala](https://froala.com/design-blocks/)
